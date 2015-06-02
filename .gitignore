@@ -39,3 +39,5 @@ nosetests.xml
 *.komodoproject
 
 .DS_Store
+
+**/target

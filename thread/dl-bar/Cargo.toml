@@ -1,0 +1,8 @@
+[package]
+name = "dl-bar"
+version = "0.1.0"
+authors = ["Steven <SeiryuZ@hotmail.com>"]
+
+[dependencies]
+hyper = "0.5.1"
+
